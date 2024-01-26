@@ -11,8 +11,6 @@ public class BangunDatar {
         return 0;
     }
     
-    float volume(){
-        return 0;
-    }
+    
     
 }
